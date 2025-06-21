@@ -1,0 +1,3 @@
+nome; idade
+roberto; 40
+renato; 50
