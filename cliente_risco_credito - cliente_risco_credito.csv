@@ -1,0 +1,15 @@
+codigo_cliente,historia_credito,divida,garantia,renda_anual,risco
+C01,Ruim,Alta,Nenhuma,"< 15.000,00",Alto
+C02,Desconhecida,Alta,Nenhuma,"15.000,00 a 35.000,00",Alto
+C03,Desconhecida,Baixa,Nenhuma,"15.000,00 a 35.000,00",Moderado
+C04,Desconhecida,Baixa,Nenhuma,"> 35.000,00",Alto
+C05,Desconhecida,Baixa,Nenhuma,"> 35.000,00",Baixo
+C06,Desconhecida,Baixa,Adequada,"> 35.000,00",Baixo
+C07,Ruim,Baixa,Nenhuma,"< 15.000,00",Alto
+C08,Ruim,Baixa,Adequada,"> 35.000,00",Moderado
+C09,Boa,Baixa,Nenhuma,"> 35.000,00",Baixo
+C10,Boa,Alta,Adequada,"> 35.000,00",Baixo
+C11,Boa,Alta,Nenhuma,"< 15.000,00",Alto
+C12,Boa,Alta,Nenhuma,"15.000,00 a 35.000,00",Moderado
+C13,Boa,Alta,Nenhuma,"> 35.000,00",Baixo
+C14,Ruim,Alta,Nenhuma,"15.000,00 a 35.000,00",Alto
